@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicReader", "ComicReader\ComicReader.csproj", "{BF7D6CDB-C732-4C01-AA53-51ABF637078B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicReader.Core", "ComicReader.Core\ComicReader.Core.csproj", "{E93D17B7-9B7C-401B-96EE-E977D54C4A6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicReader.Models", "ComicReader.Models\ComicReader.Models.csproj", "{44A52C78-9E20-49CD-A79F-A4B5292E0D0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicReader.Services", "ComicReader.Services\ComicReader.Services.csproj", "{89776E93-CFA4-476E-870B-B354E09160CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicReader.Workflow", "ComicReader.Workflow\ComicReader.Workflow.csproj", "{10FC93F2-CA02-4D3D-9519-6D327C7A7B32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF7D6CDB-C732-4C01-AA53-51ABF637078B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7D6CDB-C732-4C01-AA53-51ABF637078B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7D6CDB-C732-4C01-AA53-51ABF637078B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7D6CDB-C732-4C01-AA53-51ABF637078B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E93D17B7-9B7C-401B-96EE-E977D54C4A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93D17B7-9B7C-401B-96EE-E977D54C4A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93D17B7-9B7C-401B-96EE-E977D54C4A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93D17B7-9B7C-401B-96EE-E977D54C4A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A52C78-9E20-49CD-A79F-A4B5292E0D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A52C78-9E20-49CD-A79F-A4B5292E0D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A52C78-9E20-49CD-A79F-A4B5292E0D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A52C78-9E20-49CD-A79F-A4B5292E0D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89776E93-CFA4-476E-870B-B354E09160CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89776E93-CFA4-476E-870B-B354E09160CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89776E93-CFA4-476E-870B-B354E09160CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89776E93-CFA4-476E-870B-B354E09160CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10FC93F2-CA02-4D3D-9519-6D327C7A7B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10FC93F2-CA02-4D3D-9519-6D327C7A7B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10FC93F2-CA02-4D3D-9519-6D327C7A7B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10FC93F2-CA02-4D3D-9519-6D327C7A7B32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
